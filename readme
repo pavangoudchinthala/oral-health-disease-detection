@@ -1,0 +1,4 @@
+1)open a new terminal
+2)run
+streamlit run Oral_Health_Early_Disease_Detection_1/main.py
+3)server starts streamlit run Oral_Health_Early_Disease_Detection_1/main.py
